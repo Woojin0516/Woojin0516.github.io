@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Woojin0516.github.io/static/css/main.6e863de4.css",
-    "main.js": "/Woojin0516.github.io/static/js/main.21b15985.js",
-    "static/js/453.f6cd6ade.chunk.js": "/Woojin0516.github.io/static/js/453.f6cd6ade.chunk.js",
-    "index.html": "/Woojin0516.github.io/index.html",
-    "main.6e863de4.css.map": "/Woojin0516.github.io/static/css/main.6e863de4.css.map",
-    "main.21b15985.js.map": "/Woojin0516.github.io/static/js/main.21b15985.js.map",
-    "453.f6cd6ade.chunk.js.map": "/Woojin0516.github.io/static/js/453.f6cd6ade.chunk.js.map"
+    "main.css": "/static/css/main.6e863de4.css",
+    "main.js": "/static/js/main.d0c72e16.js",
+    "static/js/453.f6cd6ade.chunk.js": "/static/js/453.f6cd6ade.chunk.js",
+    "index.html": "/index.html",
+    "main.6e863de4.css.map": "/static/css/main.6e863de4.css.map",
+    "main.d0c72e16.js.map": "/static/js/main.d0c72e16.js.map",
+    "453.f6cd6ade.chunk.js.map": "/static/js/453.f6cd6ade.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e863de4.css",
-    "static/js/main.21b15985.js"
+    "static/js/main.d0c72e16.js"
   ]
 }
