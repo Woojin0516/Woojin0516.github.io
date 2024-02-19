@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactSamlpe/static/css/main.6e863de4.css",
+    "main.js": "/reactSamlpe/static/js/main.ff3f4ea7.js",
+    "static/js/453.f6cd6ade.chunk.js": "/reactSamlpe/static/js/453.f6cd6ade.chunk.js",
+    "index.html": "/reactSamlpe/index.html",
+    "main.6e863de4.css.map": "/reactSamlpe/static/css/main.6e863de4.css.map",
+    "main.ff3f4ea7.js.map": "/reactSamlpe/static/js/main.ff3f4ea7.js.map",
+    "453.f6cd6ade.chunk.js.map": "/reactSamlpe/static/js/453.f6cd6ade.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e863de4.css",
+    "static/js/main.ff3f4ea7.js"
+  ]
+}
